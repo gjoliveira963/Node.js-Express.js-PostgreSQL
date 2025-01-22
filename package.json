@@ -1,0 +1,46 @@
+{
+  "name": "nodejs-express-postgresql",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo utilizando NodeJS, Express.js e PostgreSQL para criar APIs modernas e escaláveis.",
+  "keywords": [
+    "nodejs",
+    "express",
+    "postgresql",
+    "api",
+    "backend",
+    "restful",
+    "javascript"
+  ],
+  "homepage": "https://github.com/gjoliveira963/NodeJS-Express-PostgreSQL#readme",
+  "bugs": {
+    "url": "https://github.com/gjoliveira963/NodeJS-Express-PostgreSQL/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gjoliveira963/NodeJS-Express-PostgreSQL.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "G. J. Oliveira",
+    "email": "development@gjoliveira.dev"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
