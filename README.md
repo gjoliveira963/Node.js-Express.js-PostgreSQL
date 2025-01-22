@@ -1,6 +1,6 @@
-# **NodeJS + Express + PostgreSQL**
+# **Node.js + Express.js + PostgreSQL**
 
-Este projeto é um exemplo prático de como integrar o **NodeJS** com **Express.js** e **PostgreSQL**, mostrando as etapas para configurar um servidor simples com conexão a um banco de dados relacional.
+Este projeto é um exemplo prático de como integrar o **Node.js** com **Express.js** e **PostgreSQL**, mostrando as etapas para configurar um servidor simples com conexão a um banco de dados relacional.
 
 ## **Pré-requisitos**
 
@@ -95,4 +95,4 @@ express-postgresql/
 
 ---
 
-Com este projeto, você tem uma base sólida para começar a explorar o uso do **NodeJS** com **Express.js** e **PostgreSQL**.
+Com este projeto, você tem uma base sólida para começar a explorar o uso do **Node.js** com **Express.js** e **PostgreSQL**.
