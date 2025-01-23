@@ -93,6 +93,11 @@ express-postgresql/
 - Rotas HTTP para gerenciar recursos (CRUD).
 - Variáveis de ambiente gerenciadas com `dotenv`.
 
+## **Licença**
+
+Este projeto está licenciado sob a licença MIT.
+Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 ---
 
 Com este projeto, você tem uma base sólida para começar a explorar o uso do **Node.js** com **Express.js** e **PostgreSQL**.
